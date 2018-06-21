@@ -18,7 +18,6 @@ import android.support.v4.app.Fragment;
  * 1.setUserVisibleHint
  */
 public abstract class TestFragment extends Fragment {
-
     /**
      * 首次加载fragment的标志
      */
